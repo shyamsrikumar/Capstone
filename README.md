@@ -4,7 +4,7 @@ DS785: Capstone
 
 Open below notebooks to view analysis and code:
 
-Final Presentation- Run 1.ipynb    -> **with comments to follow the analysis!!!**
+Final Presentation- Run 1.ipynb    -> **this version has comments to follow the analysis!!!**
   <br />Scenario: Slot 20 top products in first two racks, just the ground locations. Each rack has 54 ground bin locations
   <br />No_of_Products = 20
   <br />No_of_Locations = 108
